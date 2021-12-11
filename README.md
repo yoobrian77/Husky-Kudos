@@ -7,4 +7,4 @@ This repository contains the project proposal for our Client Side Development co
 
 Created By:
 
-Jamila, Brian Y. and David N. 
+Brian Y. 
