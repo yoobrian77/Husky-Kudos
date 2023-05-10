@@ -7,7 +7,7 @@ export function About(){
             <div className= "test"> 
                 <div className="container">
                     <div className="main-content">
-                        <h2>About the Husky Kudos</h2>
+                        <h2>About Husky Kudos</h2>
                         <br/>
                         <p>Can we give recognition to students and faculty at the University of Washington who display acts aligning with the school's values? </p> 
                         <p> The school values: Integrity, Diversity, Excellence, Collaboration, Innovation and Respect, should be encouraged and applauded and we believe our website will be a stepping stone in making that a possibility.</p>
